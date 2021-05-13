@@ -1,4 +1,4 @@
-# IBM-Data-Analyst 
+# IBM Data Analyst 
 
 **Program Details data**<br/>
 **Creating Visualizations and Dashboards with Cognos Analytics** <br/>
