@@ -18,4 +18,4 @@ You will undertake the tasks of collecting data from multiple sources, performin
 * Data Visualization with Python <br/>
 * IBM Data Analyst Capstone Project <br/>
 
-*Several of the courses overlap with the IBM Applied Data Science program, I have uploaded those overlapped materials at that IBM Applied Data Science Repository.* 
+*Several of the courses overlap with the IBM Applied Data Science program, I have uploaded those materials at that IBM Applied Data Science Repository.* 
